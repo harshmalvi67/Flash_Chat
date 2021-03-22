@@ -3,7 +3,7 @@ Made a chatting app while learning the Flutter framework.
 
 Firebase is used as the backend.
 
-Which allows the user to chat with the user registered on the App.
+The app allows the user to chat with the user registered on the App.
 
 Users have to register themselves on the App using an Email id.
 
