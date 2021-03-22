@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Flash_Chat
 Made a chatting app while learning the Flutter framework. 
 
@@ -14,12 +14,6 @@ The functionality added are:
 2. Forget Password 
 3. Send Images
 
-
-
-=======
-# flash_chat
-
-A new Flutter application.
 
 ## Getting Started
 
